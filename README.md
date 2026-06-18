@@ -7,8 +7,8 @@
 Full-stack developer based in Marburg, Germany.
 I build products end-to-end — architecture, backend, UI, deployment — and care about getting the details right.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-6b7280?style=flat&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ali-ayazi-beheshti)
+[![Email](https://img.shields.io/badge/Email-6b7280?style=flat&logo=gmail&logoColor=white)](mailto:arsixit@gmail.com)
 [![Mietlex](https://img.shields.io/badge/mietlex.de-live-10b981?style=flat)](https://mietlex.de)
 
 </div>
